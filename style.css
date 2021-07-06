@@ -1,0 +1,136 @@
+body{
+font-family: 'Poppins', sans-serif;
+}
+h1{
+ font-size: 50px;
+ margin-bottom: 80px;
+}
+h2{
+    font-size:30px ;
+}
+.different_color{
+   
+    background: -webkit-linear-gradient(rgb(241, 187, 9), rgb(3, 80, 42));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+ 
+}
+.section1_text{
+    width: 80%;
+   padding-left: 50px;
+    
+    }
+.section1_pic img{
+width: 60%;
+padding-left: 15%;
+padding-top:10% ;
+}
+section{
+    display: flex;
+}
+.button_link{
+    
+    text-decoration: none;
+    border:none;
+    color: aliceblue;
+    border-radius: 5px;
+    background-image: linear-gradient(orange,red);
+    padding: 10px 40px;
+    font-weight: 700;
+    font-size:20px ;
+}
+.background_section{
+    background-image:url(images/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+
+    
+}
+.section2_text{
+    width: 50%;
+   padding-left:30%;
+    
+    }
+.section2_pic img{
+width:200%;
+padding-left: 15%;
+padding-top:10% ;
+}
+.centre_align{
+
+    text-align: center;
+    
+}
+.foodpic_border{
+    width:100%;
+    
+    margin-left: 10%;
+    margin-right: 50px;
+    padding-right: 20px;
+    box-shadow: 10px 10px 30px grey;
+    border-radius: 20px;
+    padding-top: 10px;
+    margin-bottom: 50px;
+}  
+
+.foodpic_border img{
+  width:100%;
+  height: 650px; ;
+  border-radius: 30px;
+  
+  padding-left: 10px;
+  padding-right: 10px;
+  
+
+
+}
+.alli{
+
+
+padding-left: 30px;
+
+}
+
+
+ .followers{
+  
+  
+ }
+ 
+
+
+.followers_border{margin: 0;
+
+    
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-right: 0px;
+    box-shadow: 10px 10px 30px grey;
+    border-radius: 20px;
+    padding-top: 10px;
+    
+}  
+
+
+.blue_background{
+    background-image:url(images/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+
+
+}
+footer{text-align: center;}
+
+
+.centre{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    
+}
+.foodpic_border2{
+  width: fit-content;
+    
+   
+    box-shadow: 10px 10px 30px grey;
+    border-radius: 20px;
+   
+}  
